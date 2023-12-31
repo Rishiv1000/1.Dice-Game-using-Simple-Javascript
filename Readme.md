@@ -1,3 +1,8 @@
+
+![1](https://github.com/Rishiv1000/Dice-Game-using-Simple-Javascript/assets/114014651/3b4f32d3-56ed-4200-95a0-afe0422c97de)
+![Screenshot 2023-10-27 130724](https://github.com/Rishiv1000/Dice-Game-using-Simple-Javascript/assets/114014651/f628d138-ac62-457a-9090-181b90f2e7ab)
+![Screenshot 2023-10-27 130642](https://github.com/Rishiv1000/Dice-Game-using-Simple-Javascript/assets/114014651/c9dc1221-0946-40ef-9da7-ba5c39d21284)
+
 Step 1 - We Create Html File
 
 step 2 - In index.js file ,
